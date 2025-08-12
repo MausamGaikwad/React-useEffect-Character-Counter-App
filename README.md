@@ -25,7 +25,7 @@ Built with React Hooks and the useEffect hook to dynamically update the page tit
 ```bash
 
 # Clone the repository
-git clone https://github.com/your-username/character-counter-app.git
+git clone https://github.com/MausamGaikwad/React-useEffect-Character-Counter-App.git
 
 # Navigate to the project folder
 cd character-counter-app
